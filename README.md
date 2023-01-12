@@ -28,13 +28,14 @@ This is my portfolio website made through github pages. General structure is mad
 
 ### What I learned
 
+- Started using target atribute with the value of blank, for links to open page on new tab.
 
 
 ### Continued development
 
-
+- To develop design and functions. Planned to use Tailwind and Javascript for that purpose.
 
 ### Useful resources
 
-
+- [chatGPT](https://openai.com/blog/chatgpt/)
 
